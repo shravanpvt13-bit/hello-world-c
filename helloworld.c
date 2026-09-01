@@ -8,6 +8,6 @@ void greet(const char *name)
 int main()
 {
     printf("Hello World\n");
-    greet("Ada");
+    greet("Navami");
     return 0;
 }
