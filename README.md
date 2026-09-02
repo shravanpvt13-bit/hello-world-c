@@ -1,36 +1,13 @@
-# Hello World C
+## Collaboration Log
 
-> A collaborative C programming exercise exploring Git blame, real-time peer programming, and core function structures.
+- Pairing partner: Shravan S Neeralagi
+- GitHub username: shravanpvt13
+- What we built: Added a greet() function to the Hello World C program.
+- What I learned: I learned how GitLens shows who changed each line of code and how Live Share allows two people to collaborate and edit code in real time.
 
----
-
-## 🛠️ Overview
-This project features a simple C program updated with a custom `greet()` function during a live pair-programming session.
-
-- **What We Built:** Extended the base `helloworld.c` program by adding a reusable `greet()` function to personalize output messages.
-- **Key Learnings:**
-  - **GitLens:** Visualized line-by-line commit authorship directly in VS Code.
-  - **VS Code Live Share:** Real-time collaborative coding and joint debugging.
-
----
-
-## 🤝 Collaboration Log
-
-| Role | Teammate | GitHub Profile |
-| :--- | :--- | :--- |
-| **Driver / Contributor** | Navami C | [@navamic797](https://github.com/navamic797) |
-
----
-
-## 🚀 Getting Started
-
-### Prerequisites
-- GCC Compiler (or any standard C compiler)
-
-### Run the Code
-```bash
-# Compile
-gcc helloworld.c -o helloworld
-
-# Execute
-./helloworld
+### Step 4: Add the Projects section to `README.md`
+1. Open **`README.md`** in VS Code (click on it in the left Explorer sidebar)[cite: 1].
+2. At the bottom of the file, add a new section[cite: 1]:
+   ```markdown
+   ## Projects
+   - **Healthify_IQ**: A consumer safety rating system for analyzing product ingredients.
